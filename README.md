@@ -3,6 +3,7 @@
 I'm Jakub, an astroparticle physics PhD transitioning into quantitative finance, with a focus on factor research and systematic equity strategies. I build robust computational tools and models spanning from physics simulations to financial research infrastructure.
 
 ### 🔭 What I'm currently working on
+- Applying the GraphNet GNN framework to noise cleaning for the Pacific Ocean Neutrino Experiment
 - Factor research and validation at the UBC Trading Group
 - Machine learning models for Kaggle competitions
   - [Housing Prices](https://github.com/JakubStacho/housing-prices)
