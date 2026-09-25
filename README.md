@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Page! 👋
 
-I'm Jakub, an astroparticle physics PhD transitioning into quantitative finance, with a focus on factor research and systematic equity strategies. I build robust computational tools and models spanning from physics simulations to financial research infrastructure.
+I'm Jakub, an astroparticle physics PhD transitioning into quantitative finance, with a focus on factor research and systematic equity strategies. I build robust computational tools and models, from large-scale physics simulations to financial research infrastructure.
 
 ### 🔭 What I'm currently working on
 - Applying the GraphNet GNN framework to noise cleaning for the Pacific Ocean Neutrino Experiment
